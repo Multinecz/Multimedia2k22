@@ -1,0 +1,19 @@
+<?php
+
+$numero_1 = 10;
+print_r($numero_1);
+echo "<br>";
+
+$numero_2 = 10,5;
+print_r($numero_2);
+echo"<br>";
+
+$letra = "a";
+print_r($letra);
+echo "<br>";
+
+$verdadero = true
+print_r($verdadero);
+echo "<br>";
+
+?>
